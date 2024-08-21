@@ -1,4 +1,4 @@
-![alt text](image.png)
+<img src="https://nicetoeat.net/wp-content/uploads/2021/05/careers.jpg" height=300 width=1000>
 
 <div style="text-align: center;">
 <h1><u>KAYS LEARNING JOURNAL</u></h1>
@@ -40,7 +40,7 @@ By this point in my career I would like to be a profficant Ethical Hacker being 
 
 # SKILLS
 
-![alt text](image-3.png)
+<img src=https://www.ionos.co.uk/startupguide/fileadmin/StartupGuide/Schaubilder/soft-skills-categories.png>
 
 ### Some of my skills are:
 
