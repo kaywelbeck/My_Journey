@@ -50,10 +50,6 @@ finally:
     print("This will run no matter what.")
 ````
 
-
-
-
-
 <table>
   <tr>
     <th>Exception</th>
@@ -226,4 +222,4 @@ finally:
     <td><code>1 / 0</code></td>
   </tr>
 </table>
-````
+
